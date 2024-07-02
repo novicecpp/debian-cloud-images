@@ -1,0 +1,6 @@
+# The "CUSTOM" class
+
+PACKAGES install-norec
+xfsprogs
+btrfs-progs
+emacs-nox
