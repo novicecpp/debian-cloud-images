@@ -20,5 +20,7 @@ image_%:
 	  --output $(DESTDIR) \
 	  --override-name $@
 
+usual: image_bookworm_generic_amd64
+
 clean:
 	rm -rf image_*.*

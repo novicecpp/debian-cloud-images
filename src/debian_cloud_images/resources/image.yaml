@@ -46,7 +46,7 @@ releases:
   basename: bookworm-backports
   id: 12-backports
   baseid: '12'
-  faiClasses: [BOOKWORM, LINUX_VERSION_BACKPORTS, EXTRAS]
+  faiClasses: [BOOKWORM, LINUX_VERSION_BACKPORTS, EXTRAS, CUSTOM]
   matches:
   - matchArches: [amd64, arm64, ppc64el]
 - name: trixie
